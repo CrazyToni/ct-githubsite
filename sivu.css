@@ -1,0 +1,31 @@
+body	{
+	background-color: black;
+	}
+.tab{
+	background-color: #606060;
+	border-left:solid 3px #303030;
+	border-top:solid 3px #303030;
+	border-right:solid 3px #303030;
+	border-bottom:solid 3px #303030;
+	height: 650px; 
+	width: 80%;
+	text-align: center;
+	}
+.bor{
+	background-color: #B0B0B0;
+	border-left:solid 3px #909090;
+	border-top:solid 3px #909090;
+	border-right:solid 3px #909090;
+	border-bottom:solid 3px #909090;
+	}
+.bo1{
+	background-color: #BBBBBB;
+	border-left:solid 3px #D0D0D0;
+	border-top:solid 3px #D0D0D0;
+	border-right:solid 3px #909090;
+	border-bottom:solid 3px #909090;
+	}
+
+a:link		{color: #0000FF; text-decoration: none}
+a:visited	{color: #000080; text-decoration: none}
+a:hover 		{color: #FFFFFF; text-decoration: underline; background: #606060;}
